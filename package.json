@@ -1,0 +1,22 @@
+{
+  "name": "line-echo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdc-yamada-ya/line-echo-bot.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tdc-yamada-ya/line-echo-bot/issues"
+  },
+  "homepage": "https://github.com/tdc-yamada-ya/line-echo-bot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.0.1"
+  }
+}
